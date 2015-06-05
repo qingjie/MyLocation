@@ -15,21 +15,13 @@ Location manager is a CLLocationManager wrapper written entirely in Swift
 >
 > 4) Closure returns CLPlacemark object, making it easier to place pin on map
 
-
-----------
-
-
-**Try this too:**
-https://github.com/varshylmobile/MapManager
-
-
 ----------
 
 
 Screenshot
 ==========
 
-![Screenshot](https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/4589/iOS_Simulator_Screen_Shot_28-Aug-2014_4.00.24_pm.png)
+![Screenshot](IMG_1839.PNG)
 
 
 
@@ -183,43 +175,6 @@ Roadmap
  - iPhone4 and startMonitoringSignificantLocationChanges issue
 
 ----------
-
-Contributors 
----------------
-***All contributors will receive virtual high fives from me and for the heck of it lets forget you are a south paw***
-
-![enter image description here](https://dl.dropbox.com/s/n32dq4fle8fh7l4/internet-high-five.jpg)
-
-
-----------
-Other Repos you might like
---------------------------
-
-1) https://github.com/varshylmobile/MapManager
-
-> Map manager is a MapKit wrapper in Swift to provide route direction
-> drawing
-
-2) https://github.com/varshylmobile/VMXMLParser
-
-> NSXMLParser wrapper in Swift
-
-3) https://github.com/varshylmobile/RateMyApp
-
-> RateMyApp is a Swift class to provide gentle reminders to app user to
-> rate your app
-
-4) https://github.com/varshylmobile/TableViewCellFlip
-
-> Vertical and Horizontal flip animation for table view cell
-
-Contact Us
----------------
-
-Have any questions or suggestions feel free to write at jimmy@varshyl.com (Jimmy Jose)
-http://www.varshylmobile.com/
-
-----------
 ## License
 
 The MIT License (MIT)
@@ -231,7 +186,5 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/varshylmobile/locationmanager/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
