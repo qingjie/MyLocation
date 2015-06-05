@@ -23,8 +23,6 @@ Screenshot
 
 ![Screenshot](IMG_1839.PNG)
 
-
-
 Sample code
 -----------
 ***Closure***
