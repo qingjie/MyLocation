@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription
+NSLocationAlwaysUsageDescription
