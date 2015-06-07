@@ -47,11 +47,15 @@ class ViewController: UIViewController , CLLocationManagerDelegate{
     }
     
     func displayLocation(location:CLLocation){
-        mapView.setRegion(MKCoordinateRegion(center: CLLocationCoordinate2DMake(location.coordinate.latitude, location.coordinate.longitude), span: MKCoordinateSpanMake(0.05, 0.05)), animated: true)
+        mapView.setRegion(MKCoordinateRegion(center: CLLocationCoordinate2DMake(location.coordinate.latitude, location.coordinate.longitude), span: MKCoordinateSpanMake(0.0005, 0.0005)), animated: true)
         
         let locationPinCoord = CLLocationCoordinate2D(latitude: location.coordinate.latitude, longitude: location.coordinate.longitude)
         let annotation = MKPointAnnotation()
         annotation.coordinate = locationPinCoord
+        
+        annotation.title = "Hi~"
+        annotation.subtitle = "There"
+        
         
         mapView.addAnnotation(annotation)
         mapView.showAnnotations([annotation], animated: true)

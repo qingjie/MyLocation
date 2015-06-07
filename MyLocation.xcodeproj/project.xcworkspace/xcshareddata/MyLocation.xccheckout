@@ -10,14 +10,14 @@
 	<string>MyLocation</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>95960D36F19EC2A9E315C381A0630A293ABDE85B</key>
+		<key>96195EAB0089B9C296A0416B1D666A5022179AFB</key>
 		<string>https://github.com/qingjie/MyLocation.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MyLocation.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>95960D36F19EC2A9E315C381A0630A293ABDE85B</key>
+		<key>96195EAB0089B9C296A0416B1D666A5022179AFB</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>95960D36F19EC2A9E315C381A0630A293ABDE85B</string>
+	<string>96195EAB0089B9C296A0416B1D666A5022179AFB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>95960D36F19EC2A9E315C381A0630A293ABDE85B</string>
+			<string>96195EAB0089B9C296A0416B1D666A5022179AFB</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MyLocation</string>
 		</dict>
